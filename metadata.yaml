@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Young Collector''s Handbook of Ants, Bees, Dragon-flies, Earwigs, Crickets,
   and Flies
 
